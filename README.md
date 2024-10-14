@@ -23,5 +23,3 @@ npx ts-node Linkedlist.ts
 npm install
 npm start
 ```
-
-4. Open the browser and navigate to <http://localhost:3000/>
