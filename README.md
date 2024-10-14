@@ -1,6 +1,6 @@
 # React Oral Assessments
 
-## How to run the task 1
+## How to run task 1
 
 1. Open the terminal
 2. Navigate to the task1 (linked_list_task) folder
@@ -13,7 +13,7 @@ npx ts-node Linkedlist.ts
 
 ```
 
-## How to run the task 2
+## How to run task 2
 
 1. Open the terminal
 2. Navigate to the task2 (temperature-converter_task) folder
